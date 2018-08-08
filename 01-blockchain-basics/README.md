@@ -27,7 +27,7 @@ Learning Objectives:
 ### Resources
 | Title of resource | Resource type | Description
 | --- | --- |--- |
-| Bitcoin Whitepaper | Website | This is paper released by Satoshi Nakamoto prior to release of the now famous cryptocurrency Bitcoin. |
+| [Bitcoin Whitepaper](http://www.bitcoin.org/bitcoin.pdf) | Website | This is paper released by Satoshi Nakamoto prior to release of the now famous cryptocurrency Bitcoin. |
 
 
 Title of resource: Bitcoin's Academic Pedigree
