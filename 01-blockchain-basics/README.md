@@ -28,19 +28,13 @@ Learning Objectives:
 | Title of resource | Resource type | Description
 | --- | --- |--- |
 | [Bitcoin Whitepaper](http://www.bitcoin.org/bitcoin.pdf) | Website | This is paper released by Satoshi Nakamoto prior to release of the now famous cryptocurrency Bitcoin. |
+|[Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)|Paper|How Bitcoin, a radically different proposal for a decentralized cryptocurrency showed that digital cash could be viable.|
+|[What is Blockchain Technology? A Step-by-Step Guide For Beginners](https://blockgeeks.com/guides/what-is-blockchain-technology/)|Website|A step by step guide that goes into the details of what Blockchain technology is.|
+|[Blockchain: The Invisible Technology That's Changing the World](https://www.pcmag.com/article/351486/blockchain-the-invisible-technology-thats-changing-the-wor)|Website|Article that expands on a new immutable digital fabric remaking the internet without people even realizing it. It also shows how Blockchain-based networks, decentralized apps (DApps), and distributed ledgers are becoming the foundation of digital life.|
 
 
-Title of resource: Bitcoin's Academic Pedigree
-Resource type: Paper
-Description: How Bitcoin, a radically different proposal for a decentralized cryptocurrency showed that digital cash could be viable.
 
-Title of resource: What is Blockchain Technology? A Step-by-Step Guide For Beginners
-Resource type: Website
-Description: A step by step guide that goes into the details of what Blockchain technology is.
 
-Title of resource: Blockchain: The Invisible Technology That's Changing the World
-Resource type: Website
-Description: Article that expands on a new immutable digital fabric remaking the internet without people even realizing it. It also shows how Blockchain-based networks, decentralized apps (DApps), and distributed ledgers are becoming the foundation of digital life.
 
 Week 02 - Ethereum Blockchain
 ============================
