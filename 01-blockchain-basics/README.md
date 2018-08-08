@@ -9,11 +9,11 @@ Table of contents
 <!--ts-->
    * [Course 01 - Blockchain Basic](#course-01-blockchain-basic)
    * [Table of contents](#table-of-contents)
-   * [Certificate](#installation)
+   * [Certificate](#certificate)
 
 <!--te-->
 
-## Certificate
+Certificate
 ==============
 ![Certificate](ezequiel-aguilar-blockchain-basics-UB-Sunny-Blockchain-Specialization.png)
 
