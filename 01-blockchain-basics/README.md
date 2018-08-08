@@ -7,9 +7,9 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Course 01 - Blockchain Basic](#course-01-blockchain-basic)
-   * [Table of contents](#table-of-contents)
    * [Certificate](#certificate)
+   * [Week 01 Blockchain Defined](#week-01-blockchain-defined)
+   * [Week 01 Blockchain Defined](#week-01-blockchain-defined)
 
 <!--te-->
 
@@ -17,16 +17,18 @@ Certificate
 ==============
 ![Certificate](ezequiel-aguilar-blockchain-basics-UB-Sunny-Blockchain-Specialization.png)
 
-## Week 01 - Blockchain Defined
+Week 01 Blockchain Defined
+==========================
 Learning Objectives:
 * Explain the three fundamental characteristics that define a Blockchain using Bitcoin Blockchain.
 * Discuss the important features of Ethereum Blockchain that is used as reference implementation in many newer Blockchains.
 * Outline methods for realizing trust in the Blockchain.
 
 ### Resources
-Title of resource: Bitcoin Whitepaper
-Resource type: Website
-Description: This is paper released by Satoshi Nakamoto prior to release of the now famous cryptocurrency Bitcoin.
+| Title of resource | Resource type | Description
+| --- | --- |--- |
+| Bitcoin Whitepaper | Website | This is paper released by Satoshi Nakamoto prior to release of the now famous cryptocurrency Bitcoin. |
+
 
 Title of resource: Bitcoin's Academic Pedigree
 Resource type: Paper
@@ -40,9 +42,13 @@ Title of resource: Blockchain: The Invisible Technology That's Changing the Worl
 Resource type: Website
 Description: Article that expands on a new immutable digital fabric remaking the internet without people even realizing it. It also shows how Blockchain-based networks, decentralized apps (DApps), and distributed ledgers are becoming the foundation of digital life.
 
-## Week 02 - Ethereum Blockchain
+Week 02 - Ethereum Blockchain
+============================
 
-## Week 03 - Algorithms & Techniques
+Week 03 - Algorithms & Techniques
+=================================
 
-## Week 04 - Trust Essentials
+
+Week 04 - Trust Essentials
+==========================
 
