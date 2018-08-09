@@ -9,7 +9,7 @@ Table of contents
    * [Certificate](#certificate)
    * [Week 01 Blockchain Defined](#week-01-blockchain-defined)
    * [Week 02 Ethereum Blockchain](#week-02-ethereum-blockchain)
-   * [Week 03 Algorithms & Techniques](#week-03-algorithms-&-techniques)
+   * [Week 03 Algorithms & Techniques](#week-03-algorithms-techniques)
    * [Week 04 Trust Essentials](#week-04-trust-essentials)
 
 <!--te-->
@@ -56,11 +56,24 @@ Learning Objectives:
 
 Week 02 Ethereum Blockchain
 ============================
+Learning Objectives:
+* Discuss, at a high-level, the innovation of the Ethereum Blockchain, namely, the smart contract.
+* Illustrate Ethereum Blockchain protocol: structural elements and operational aspects.
+* Demonstrate the concept of gas, the fuel or payment model for code execution, and the incentive model of Ethereum Blockchain.
 
 Week 03 Algorithms & Techniques
 =================================
-
+Learning Objectives:
+* Summarize the working of public key cryptography.
+* Explain simple hashing & Merkle tree hash.
+* Explore the application of hashing and cryptography in protecting the Blockchain.
 
 Week 04 Trust Essentials
 ==========================
+Learning Objectives:
+* Define elements of trust in a Blockchain: security, validation, verification, and consensus.
+* Discuss Consensus protocol: an algorithmic approach to add a new block and to secure the chain.
+* Explain trust in the robustness of the main chain.
+* Illustrate trust in managing exceptional situations: soft fork and hard fork.
+* Demonstrate you are able to follow the steps to transact on a blockchain.
 
