@@ -66,9 +66,9 @@ Learning Objectives:
 |[Smart Contracts: The Blockchain Technology That Will Replace Lawyers](https://blockgeeks.com/guides/smart-contracts/)|Website|Article explains what smart contracts are and how they allow for the disposal of intermediaries which will saves time and conflict for governments and corporations.|
 |[Introduction to Smart Contracts](http://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html)|Website|Introduction to the basics of smart contracts and solidity.|
 |[What is Ethereum?](http://ethdocs.org/en/latest/introduction/what-is-ethereum.html)|Website|Introduction to Ethereum, Ethereum Virtual Machine, and how they work.|
-|[Smart Contracts: A White Paper]()|White paper|Offers an overview of smart contracts, their types depending on the transaction involved, and blockchain technology providers.|
-|[Account Management]()|Website|Documentation on account management from Ethereum Homestead, an ongoing collaborative effort of volunteers from the Ethereum Community.|
-|[Native: Account management]()|Website|Introduces account management and how it can provide Ethereum integration for your native applications.|
+|[Smart Contracts: A White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)|White paper|Offers an overview of smart contracts, their types depending on the transaction involved, and blockchain technology providers.|
+|[Account Management](http://ethdocs.org/en/latest/account-management.html)|Website|Documentation on account management from Ethereum Homestead, an ongoing collaborative effort of volunteers from the Ethereum Community.|
+|[Native: Account management](https://github.com/ethereum/go-ethereum/wiki/Native:-Account-management)|Website|Introduces account management and how it can provide Ethereum integration for your native applications.|
 
 |[]()|||
 
