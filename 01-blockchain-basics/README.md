@@ -69,10 +69,18 @@ Learning Objectives:
 |[Smart Contracts: A White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)|White paper|Offers an overview of smart contracts, their types depending on the transaction involved, and blockchain technology providers.|
 |[Account Management](http://ethdocs.org/en/latest/account-management.html)|Website|Documentation on account management from Ethereum Homestead, an ongoing collaborative effort of volunteers from the Ethereum Community.|
 |[Native: Account management](https://github.com/ethereum/go-ethereum/wiki/Native:-Account-management)|Website|Introduces account management and how it can provide Ethereum integration for your native applications.|
+|[How Ethereum Works](https://www.coindesk.com/information/how-ethereum-works/)|Website|This article dives deeper into how the platform functions under the hood.|
+|[What Is Meant By The Term “Gas”?](https://ethereum.stackexchange.com/questions/3/what-is-meant-by-the-term-gas)|Website|Answers on Ethereum stack exchange that explains gas and where it comes from?|
 
 |[]()|||
 
 
+
+Title of resource: 
+
+Resource type: 
+
+Description: 
 
 
 Week 03 Algorithms & Techniques
