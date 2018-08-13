@@ -74,9 +74,8 @@ Learning Objectives:
 |[Vitalik Buterin Doubles Down on Ethereum Incentive Strategy](https://www.coindesk.com/vitalik-buterin-doubles-ethereum-incentive-strategy/)|Website|An article written by Amy Castor that goes into Vitalik’s incentive strategy for Ethereum during the Workshop on Trusted Smart Contracts.|
 |[Ether](https://www.ethereum.org/ether)|Website|Official website of ethereum that lists the most important things to know about ethers.|
 |[Proof of Work vs Proof of Stake: Basic Mining Guide](https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/)|Website|This article will explain the main differences between Proof of Work vs Proof of Stake and will provide a definition of mining.|
+|[Etherscan](https://etherscan.io/)|Website|EtherScan is a Block Explorer, Search, API and Analytics Platform for Ethereum, a decentralized smart contracts platform. You can use this website to explore and answer questions related to Ethereum Blockchain.|
 
-
-|[]()|||
 
 
 
@@ -86,6 +85,11 @@ Learning Objectives:
 * Summarize the working of public key cryptography.
 * Explain simple hashing & Merkle tree hash.
 * Explore the application of hashing and cryptography in protecting the Blockchain.
+
+### Resources
+| Title of resource | Resource type | Description
+| --- | --- |--- |
+|[]()|||
 
 Week 04 Trust Essentials
 ==========================
