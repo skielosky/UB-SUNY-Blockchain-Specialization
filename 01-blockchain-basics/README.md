@@ -60,6 +60,17 @@ Learning Objectives:
 * Discuss, at a high-level, the innovation of the Ethereum Blockchain, namely, the smart contract.
 * Illustrate Ethereum Blockchain protocol: structural elements and operational aspects.
 * Demonstrate the concept of gas, the fuel or payment model for code execution, and the incentive model of Ethereum Blockchain.
+### Resources
+| Title of resource | Resource type | Description
+| --- | --- |--- |
+|[Smart Contracts: The Blockchain Technology That Will Replace Lawyers](https://blockgeeks.com/guides/smart-contracts/)|Website|Article explains what smart contracts are and how they allow for the disposal of intermediaries which will saves time and conflict for governments and corporations.|
+|[Introduction to Smart Contracts](http://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html)|Website|Introduction to the basics of smart contracts and solidity.|
+|[What is Ethereum?](http://ethdocs.org/en/latest/introduction/what-is-ethereum.html)|Website|Introduction to Ethereum, Ethereum Virtual Machine, and how they work.|
+
+|[]()|||
+
+
+
 
 Week 03 Algorithms & Techniques
 =================================
