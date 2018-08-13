@@ -89,7 +89,27 @@ Learning Objectives:
 ### Resources
 | Title of resource | Resource type | Description
 | --- | --- |--- |
+|[What Is Public-Key Cryptography?](https://www.globalsign.com/en/ssl-information-center/what-is-public-key-cryptography/)|Website|A look at the encryption algorithm and its security benefits|
+|[Asymmetric Cryptography (Public-Key Cryptography)](http://searchsecurity.techtarget.com/definition/asymmetric-cryptography)|Website|Article explains what Asymmetric cryptography is and how it works|
+|[Public Key Cryptography - Computerphile](https://www.youtube.com/watch?v=GSIDS_lvRv4)|Video (Run time- 6:19)|Youtube video that explains how public key cryptography works.|
+|[What Is Hashing? Under The Hood of Blockchain](https://blockgeeks.com/guides/what-is-hashing/)|Website|An article that not only explains the basics of hashing but introduces a more specific type of hashing and how it affects the mining process.|
+|[SHA: Secure Hashing Algorithm - Computerphile](https://www.youtube.com/watch?v=DMtFhACPnTY)|Video (Run time- 10:20)|Dr. Mike Pound explains how files are used to generate seemingly random hash strings.|
+|[Hash Functions](https://www.cs.hmc.edu/~geoff/classes/hmc.cs070.200101/homework10/hashfuncs.html)|Website|Explanations and examples of simple hash functions and the hashing sequences of characters.|
+|[Blockchain demo](https://anders.com/blockchain/hash.html)|website|This website contains a hashing tool.|
+|[ How Safe Are Blockchains? It Depends.](https://hbr.org/2017/03/how-safe-are-blockchains-it-depends)|Website|Article explains the inherent security risks in blockchain technology, by going into the differences between public and private blockchains.|
+|[Blockchains: Embedding Integrity](https://infospectives.co.uk/2016/01/05/blockchains-embedding-integrity/)|Website|Article explains why big corporations and financial institutions are spending lots of time and money looking into Blockchain.|
+|[Securing the Blockchain](https://home.kpmg.com/xx/en/home/insights/2017/05/securing-the-blockchain-fs.html)|Website|Article talks about the high profile blockchain incidents that have occurred and how organizations should move forward.|
+|[Is It Chain of Headers Rather Than a Chain of Blocks?](https://bitcoin.stackexchange.com/questions/35448/is-it-chain-of-headers-rather-than-a-chain-of-blocks)|Website|Bitcoin Stack Exchange is a question and answer site for Bitcoin cryptocurrency enthusiasts. Users comment on whether its chain of headers or chain of blocks.|
+|[What is a Block Header in Bitcoin?](https://www.cryptocompare.com/coins/guides/what-is-a-block-header-in-bitcoin/)|Website|Article explains how to calculate and identify a block header.|
+|[1. Blockchain](https://www.blockchain.com/)|Website|Blockchain is the world's leading software platform for digital assets. Offering the largest production blockchain platform in the world and using new technology to build a radically better financial system. You can use this website to explore and answer questions related to Bitcoin Blockchain.|
+|[2. Bitcoin Block Explorer](https://blockexplorer.com/)|Website|Block Explorer is an open source web tool that allows you to view information about blocks, addresses, and transactions on the Bitcoin blockchain. You can use this website to explore and answer questions related to Bitcoin Blockchain.|
+|[3. Bitcoin Wiki](https://en.bitcoin.it/wiki/Block_hashing_algorithm)|Website|A public resource wiki page for the community of Bitcoin users, developers, and businesses as well as anyone interested in Bitcoin. Here you can find the Block hashing algorithm in detail.|
+|[4. Bitcoin Block Hash Calculation](https://www.cse.buffalo.edu/blockchain/blockhash.html)|Website|Tool to calculate the hash of a bitcoin block.|
+|[5. Encryption Tool](https://www.cse.buffalo.edu/blockchain/encryption.html)|Website|Tool to understand the Public-Private key encryption and decryption algorithm with an example.|
+
+
 |[]()|||
+
 
 Week 04 Trust Essentials
 ==========================
