@@ -71,16 +71,13 @@ Learning Objectives:
 |[Native: Account management](https://github.com/ethereum/go-ethereum/wiki/Native:-Account-management)|Website|Introduces account management and how it can provide Ethereum integration for your native applications.|
 |[How Ethereum Works](https://www.coindesk.com/information/how-ethereum-works/)|Website|This article dives deeper into how the platform functions under the hood.|
 |[What Is Meant By The Term “Gas”?](https://ethereum.stackexchange.com/questions/3/what-is-meant-by-the-term-gas)|Website|Answers on Ethereum stack exchange that explains gas and where it comes from?|
+|[Vitalik Buterin Doubles Down on Ethereum Incentive Strategy](https://www.coindesk.com/vitalik-buterin-doubles-ethereum-incentive-strategy/)|Website|An article written by Amy Castor that goes into Vitalik’s incentive strategy for Ethereum during the Workshop on Trusted Smart Contracts.|
+|[Ether](https://www.ethereum.org/ether)|Website|Official website of ethereum that lists the most important things to know about ethers.|
+|[Proof of Work vs Proof of Stake: Basic Mining Guide](https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/)|Website|This article will explain the main differences between Proof of Work vs Proof of Stake and will provide a definition of mining.|
+
 
 |[]()|||
 
-
-
-Title of resource: 
-
-Resource type: 
-
-Description: 
 
 
 Week 03 Algorithms & Techniques
