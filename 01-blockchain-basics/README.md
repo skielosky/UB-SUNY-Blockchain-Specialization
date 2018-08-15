@@ -108,9 +108,6 @@ Learning Objectives:
 |[5. Encryption Tool](https://www.cse.buffalo.edu/blockchain/encryption.html)|Website|Tool to understand the Public-Private key encryption and decryption algorithm with an example.|
 
 
-|[]()|||
-
-
 Week 04 Trust Essentials
 ==========================
 Learning Objectives:
@@ -119,4 +116,12 @@ Learning Objectives:
 * Explain trust in the robustness of the main chain.
 * Illustrate trust in managing exceptional situations: soft fork and hard fork.
 * Demonstrate you are able to follow the steps to transact on a blockchain.
+### Resources
+| Title of resource | Resource type | Description
+| --- | --- |--- |
+|[Blockchain Based Trust & Authentication For Decentralized Sensor Networks](https://arxiv.org/pdf/1706.01730.pdf)|Website|The article contained on this website summarizes and explores decentralized authentication and node trust informations.|
+|[How the Blockchain will Radically Transform the Economy](https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare)|Video - TEDtalk (Run time- 14:58)|Description: In this valuable TEDtalk of the complex (and confusing) technology, Bettina Warburg describes how the blockchain will eliminate the need for centralized institutions like banks or governments to facilitate trade, evolving age-old models of commerce and finance into something far more interesting: a distributed, transparent, autonomous system for exchanging value.|
+
+|[]()|||
+
 
