@@ -121,7 +121,12 @@ Learning Objectives:
 | --- | --- |--- |
 |[Blockchain Based Trust & Authentication For Decentralized Sensor Networks](https://arxiv.org/pdf/1706.01730.pdf)|Website|The article contained on this website summarizes and explores decentralized authentication and node trust informations.|
 |[How the Blockchain will Radically Transform the Economy](https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare)|Video - TEDtalk (Run time- 14:58)|Description: In this valuable TEDtalk of the complex (and confusing) technology, Bettina Warburg describes how the blockchain will eliminate the need for centralized institutions like banks or governments to facilitate trade, evolving age-old models of commerce and finance into something far more interesting: a distributed, transparent, autonomous system for exchanging value.|
+|[A (Short) Guide to Blockchain Consensus Protocols](https://www.coindesk.com/short-guide-blockchain-consensus-protocols/)|Website|The article on this website summarizes the different types of proof.|
+|[Review of blockchain consensus mechanisms](https://blog.wavesplatform.com/review-of-blockchain-consensus-mechanisms-f575afae38f2)|Website|The article on this website summarizes the different types of proof.|
+|[Blockchain Expert Explains One Concept in 5 Levels of Difficulty](https://www.youtube.com/watch?v=hYip_Vuv8J0)|Video (Run time 17:49)|This video provides a great explanation of blockchain at varying levels of comprehension. Blockchain, the key technology behind Bitcoin, is a new network that helps decentralize trade, and allows for more peer-to-peer transactions. WIRED challenged political scientist and blockchain researcher Bettina Warburg to explain blockchain technology to 5 different people; a child, a teen, a college student, a grad student, and an expert.|
 
 |[]()|||
+
+ 
 
 
