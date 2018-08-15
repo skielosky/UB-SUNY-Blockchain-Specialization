@@ -124,9 +124,11 @@ Learning Objectives:
 |[A (Short) Guide to Blockchain Consensus Protocols](https://www.coindesk.com/short-guide-blockchain-consensus-protocols/)|Website|The article on this website summarizes the different types of proof.|
 |[Review of blockchain consensus mechanisms](https://blog.wavesplatform.com/review-of-blockchain-consensus-mechanisms-f575afae38f2)|Website|The article on this website summarizes the different types of proof.|
 |[Blockchain Expert Explains One Concept in 5 Levels of Difficulty](https://www.youtube.com/watch?v=hYip_Vuv8J0)|Video (Run time 17:49)|This video provides a great explanation of blockchain at varying levels of comprehension. Blockchain, the key technology behind Bitcoin, is a new network that helps decentralize trade, and allows for more peer-to-peer transactions. WIRED challenged political scientist and blockchain researcher Bettina Warburg to explain blockchain technology to 5 different people; a child, a teen, a college student, a grad student, and an expert.|
+|[How The Blockchain Is Redefining Trust](https://www.wired.com/story/how-the-blockchain-is-redefining-trust/)|Website|This helpful article highlights how the blockchain can remove intermediaries from numerous transactions between people, corporations, and a host of other financial interactions.|
+
 
 |[]()|||
 
- 
+
 
 
