@@ -128,15 +128,3 @@ Learning Objectives:
 |[Have Blockchain Forks Shown Hayek to be Right or Wrong?](http://www.trustnodes.com/2017/12/02/blockchain-forks-shown-hayek-right-wrong)|Website|This valuable article explores the concept of free market money as proposed by Friedrich Hayek in the 1970’s and its relationship to Blockchain and Bitcoin.|
 |[Split on Forks? Blockchain Leaders Learn Tough Lessons from Bitcoin Scaling](https://www.coindesk.com/split-forks-blockchain-leaders-learn-tough-lessons-bitcoin-scaling/)|Website|This website focuses on how developers need to find ways to conduct upgrades to bitcoin in a smoother manner.|
 |[Bitcoin, Blockchain Forks & Lightning](https://www.youtube.com/watch?v=8uF7RVF2osk)|Video (Run time- 8:40)|In this helpful video, an employee of UCL Security Group summarizes theories to scale bitcoin.|
-
-|[]()|||
-
-
-Title of Resource: 
-
-Resource Type: 
-
-Description: 
-
-
-
